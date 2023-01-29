@@ -36,3 +36,6 @@ Dizi sıralaması: [2,6,16,18,22,27]
 [2,3,4,5,7,9,8,15,6]
 [2,3,4,5,6,9,8,15,7]
 
+
+https://www.patika.dev/tr
+https://app.patika.dev/ozgekara
